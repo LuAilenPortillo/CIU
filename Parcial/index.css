@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container-fluid p{
+    margin-top: 15px;
+    font-size: 25px;
+}
+.portada_y_menu{
+    background-image: url("portada_3.png");
+
+}
+.ml-auto {
+    margin-left: auto !important;
+  }
+nav{
+    background-image: url("portada_3.png");
+}
